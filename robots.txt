@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: http://77ee.github.io/sitemap.xml
-Sitemap: http://77ee.github.io/sitemap.html
